@@ -1,0 +1,9 @@
+fastapi
+requests
+uvicorn
+scikit-image
+opencv-python
+imutils
+numpy
+jinja2
+python-multipart
